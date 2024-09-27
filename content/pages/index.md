@@ -22,7 +22,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Vese of the day
         altText: ''
         url: /
         showIcon: true

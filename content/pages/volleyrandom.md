@@ -2,7 +2,7 @@
 type: PageLayout
 title: Volley Random
 sections: []
-slug: empty
+slug: Volleyrandom
 isDraft: false
 seo:
   type: Seo

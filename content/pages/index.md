@@ -22,7 +22,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Vese of the day
+      - label: Verse of the day
         altText: ''
         url: /
         showIcon: true
